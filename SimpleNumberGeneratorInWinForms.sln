@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNumberGeneratorInWinForms", "SimpleNumberGeneratorInWinForms\SimpleNumberGeneratorInWinForms.csproj", "{669DD54D-7E3A-49BB-9957-EAE30F8CB9B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGeneratorLib", "NumberGenerator\NumberGeneratorLib.csproj", "{CB4FD6FC-7571-44A9-B1E0-8205580BB430}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{669DD54D-7E3A-49BB-9957-EAE30F8CB9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{669DD54D-7E3A-49BB-9957-EAE30F8CB9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{669DD54D-7E3A-49BB-9957-EAE30F8CB9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB4FD6FC-7571-44A9-B1E0-8205580BB430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4FD6FC-7571-44A9-B1E0-8205580BB430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4FD6FC-7571-44A9-B1E0-8205580BB430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4FD6FC-7571-44A9-B1E0-8205580BB430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
